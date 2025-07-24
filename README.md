@@ -1,16 +1,24 @@
-## Hi there 👋
+## <h1>Hi there I'm Samuel</h1>
 
 
-**MrWannaBeCoder/MrWannaBeCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a student and an upcoming software engineer currently learning and exploring the world of  web development design and solving problems with code I'm excited to be learning GitHub to track my progress create new things and make things with other developers</p>
 
-Here are some ideas to get you started:
+## <b>🙋‍♂️About Me </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏐 I enjoy playing volleyball
+- 🎮 Love video games 
+- 💡 Really curious to learn something new 
+
+
+
+  ## <b> 🎓Education</b>
+  
+
+  - 🤔 Currently participating in  the  Karim Kharbouch Coding Fellowship
+-  Learning HTML,CSS,GitHub 
+
+
+## <b>Contact</b>
+- 📧 Email: samuelobagbemi69@gmail.com
+
 
